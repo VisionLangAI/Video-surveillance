@@ -36,7 +36,7 @@ A publicly available dataset was used for training and validation.
 - Compared with **Inception v3** to demonstrate improvement  
 - Training performed on extracted frames  
 
-#### 📊 Evaluation Metrics  
+####  Evaluation Metrics  
 - Accuracy  
 - Precision  
 - Recall  
@@ -54,4 +54,3 @@ A publicly available dataset was used for training and validation.
 
 ---
 
----
