@@ -10,7 +10,7 @@ The research focuses on detecting abnormal activities — Abuse, Arson, Assault,
 
 ## Research Workflow  
 
-### 1. Dataset Collection  
+### Dataset Collection  
 A publicly available dataset was used for training and validation.  
 
 - **Dataset URL:** https://www.kaggle.com/datasets/umarmominn/human-abnormal-behaviour-detection 
@@ -20,7 +20,7 @@ A publicly available dataset was used for training and validation.
 
 ---
 
-### 2. Methodology  
+### Methodology  
 
 ####  Key-Frame Extraction  
 - Extracts the most informative frames from each video.  
